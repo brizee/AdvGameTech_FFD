@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+#VS Specific Stuff
+Release/*
+Debug/*
+*.exe
